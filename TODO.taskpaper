@@ -1,0 +1,10 @@
+acani:
+	- Remove the MIT-LICENSE file if you choose not to license your code.
+	- Find & Replace all occurences of acani.
+	- Revise the following files:
+		- README.md
+		- index.html
+		- style.css
+		- favicon.ico
+		- 404.html
+		- CNAME

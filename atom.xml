@@ -1,0 +1,24 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Matt Di Pasquale</title>
+ <link href="http://www.acani.com/atom.xml" rel="self"/>
+ <link href="http://www.acani.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://www.acani.com/</id>
+ <author>
+   <name>Matt Di Pasquale</name>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://www.acani.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://www.acani.com{{ post.id }}</id>
+   <content type="html">{{ post.content }}</content>
+ </entry>
+ {% endfor %}
+</feed>
