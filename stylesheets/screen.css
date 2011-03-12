@@ -23,7 +23,7 @@ img {
 }
 
 a img {
-  border: none;
+  border-style: none;
 }
 
 a {
@@ -155,6 +155,32 @@ img#fork-me {
 .home ul#icons li a img {
   height: 32px;
   width: 32px;
+}
+
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+ul#follow-us, ul#meta {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul#follow-us li, ul#meta li {
+  display: inline;
+}
+
+ul#follow-us li:last-child {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+footer ul li+li:before {
+  content: " | ";
 }
 
 
