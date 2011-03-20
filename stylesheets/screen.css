@@ -6,7 +6,6 @@
 
 header, footer, section, article, aside {
   display: block;
-  overflow: hidden;
 }
 
 body {
