@@ -48,7 +48,7 @@ To complete version 1 of the app and submit it to the App Store by the end of th
 
 ## Criteria
 
-I'm seeking an amazing, genius, diligent individual who meets the following criteria:
+I'm seeking amazing, genius, diligent individuals who meet the following criteria:
 
 - Passionate about developing an application that revolutionizes society.
 - Able & willing to work 10+ hrs/wk together in person on nights & weekends.
@@ -60,8 +60,10 @@ I'm available nights (6:30pm onward) & weekends, during which I can meet in Manh
 
 ## Contact
 
-Please [email us](mailto:info@acani.com) if you're interested! Also, include your resume (or LinkedIn) and links to your projects and github & stackoverflow profiles if you have them.
+Please email me at <script>eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%63%6c%61%73%73%3d%5c%22%65%6d%61%69%6c%5c%22%20%68%72%65%66%3d%5c%22%6d%61%69%6c%74%6f%3a%6c%69%76%65%6c%6f%76%65%70%72%6f%73%70%65%72%40%67%6d%61%69%6c%2e%63%6f%6d%5c%22%3e%6c%69%76%65%6c%6f%76%65%70%72%6f%73%70%65%72%40%67%6d%61%69%6c%2e%63%6f%6d%3c%5c%2f%61%3e%27%29%3b'))</script> if you're interested! Also, include your resume (or LinkedIn) and links to your websites, projects, and GitHub & StackOverflow profiles if you have them.
 
 Thanks!
 
-acani Team
+Matt Di Pasquale  
+<http://www.mattdipasquale.com>  
+acani Team Leader
