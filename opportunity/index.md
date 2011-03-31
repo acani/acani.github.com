@@ -13,7 +13,7 @@ Gain valuable experience [pair programming](http://j.mp/cuq3vn) with other iOS e
 
 Two iOS engineers, of which you will be one, who will partner on building the app and pair most of the time.
 
-One team leader who will guide the direction of the app and work & program together with the two iOS engineers.
+One team leader, me, who will guide the direction of the app and work & program together with the two iOS engineers.
 
 ## Commitment
 
@@ -26,8 +26,6 @@ Start immediately, part-time (10+ hrs/wk) on nights & weekends, and continue on 
 ## Team Leader
 
 I, [Matt Di Pasquale](http://www.mattdipasquale.com), graduated from Harvard, class of 2008, with an undergraduate degree in Computer Science. I have over seven years of experience in computer programming, over four years of experience as a web developer, and over one year of experience as a iOS engineer. I recently developed the [Lovers Facebook application](http://j.mp/mylovers), which reached over 1 million monthly active users. I have a passion for building social applications that revolutionize the productivity & effectiveness of the world by causing people to work together to be healthy, wealthy, loving, and abundant!
-
-My role as Team Leader is to 
 
 ## Motivation
 
@@ -81,6 +79,6 @@ Please email me at <script>eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%
 
 Thanks!
 
-Matt Di Pasquale  
-<http://www.mattdipasquale.com>  
+Matt Di Pasquale
+<http://www.mattdipasquale.com>
 acani Team Leader
