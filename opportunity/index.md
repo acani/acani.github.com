@@ -2,15 +2,32 @@
 layout: default
 ---
 
-# iOS Opportunity
+# acani iOS Opportunity & Summer Internship
+
 
 ## Opportunity
 
-Gain valuable experience [pair programming](http://j.mp/cuq3vn) with an iOS engineer on a really *SWEET* project... all while having fun and getting paid.
+Gain valuable experience [pair programming](http://j.mp/cuq3vn) with other iOS engineers on a really *SWEET* project... all while having fun and getting paid.
+
+## Team
+
+Two iOS engineers, of which you will be one, who will partner on building the app and pair most of the time.
+
+One team leader who will guide the direction of the app and work & program together with the two iOS engineers.
+
+## Commitment
+
+Start immediately, part-time (10+ hrs/wk) on nights & weekends, and continue on to a full-time (40 hrs/wk) summer internship.
 
 ## acani
 
-[acani](/) empowers you to meet people nearby with similar interests. It's like [Grindr](http://www.grindr.com) for everyone: skateboarders, programmers, models & photographers, etc. Watch an [acani demo video](/videos/acani-demo-2011-03-20.mov) of what we've developed thus far.
+[acani](/) empowers you to meet people nearby with similar interests. It's like [Grindr](http://www.grindr.com) for everyone: skateboarders, programmers, models & photographers, etc. Watch an [acani demo video](/videos/acani-demo-2011-03-20.mov) of what we've developed so far.
+
+## Team Leader
+
+I, [Matt Di Pasquale](http://www.mattdipasquale.com), graduated from Harvard, class of 2008, with an undergraduate degree in Computer Science. I have over seven years of experience in computer programming, over four years of experience as a web developer, and over one year of experience as a iOS engineer. I recently developed the [Lovers Facebook application](http://j.mp/mylovers), which reached over 1 million monthly active users. I have a passion for building social applications that revolutionize the productivity & effectiveness of the world by causing people to work together to be healthy, wealthy, loving, and abundant!
+
+My role as Team Leader is to 
 
 ## Motivation
 
@@ -18,7 +35,7 @@ I believe we can make the best, most cutting-edge application for meeting people
 
 - Facebook is great for keeping in touch with friends, but it's not for meeting new people.
 - Meetup is cool for groups, but it's not for one-to-one get togethers.
-- Craigslist works for finding apartments & strippers, but it's sketchy & old-school.
+- Craigslist works for finding apartments & strippers, but it's old-school & sketchy.
 - Grindr is really cool for gay guys, but what about everyone else?
 
 ## Technologies
@@ -36,15 +53,15 @@ I believe we can make the best, most cutting-edge application for meeting people
 
 ## Features
 
-Here are a few pending features we'll implement together:
+Here are a few pending features we'll be implementing together:
 
 - user registers through Facebook Connect
-- user uploads a profile picture
+- user uploads her profile picture
 - get & update iPhone's location asynchronously in the background
 
 ## Goal
 
-To complete version 1 of the app and submit it to the App Store by the end of the summer (Thursday, September 1, 2011). Version 1 will include the least amount of features possible that constitute a workable & presentable private beta.
+The goalo complete version 1 of the app and submit it to the App Store by the end of the summer (Thursday, September 1, 2011). Version 1 will include the least amount of features possible that constitute a workable & presentable private beta.
 
 ## Criteria
 
@@ -56,7 +73,7 @@ I'm seeking amazing, genius, diligent individuals who meet the following criteri
 
 ## Logistics
 
-I'm available nights (6:30pm onward) & weekends, during which I can meet in Manhattan or near Westport, CT.
+I'm available nights (6:30pm onward) & weekends (10am - 6pm), during which I can meet in Manhattan or near Westport, CIdeally, all three of us would work together 6 hours on Saturday & 6 hours on Sunday for a total of 12 hours. Then, during the summer internship, you could work the rest of your hours during the week with your partner.
 
 ## Contact
 
