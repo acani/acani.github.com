@@ -67,9 +67,9 @@ To complete version 1 of the app and submit it to the App Store by the end of th
 
 I'm seeking two amazing, genius, diligent individuals who meet the following criteria:
 
-- Passionate about developing an application that revolutionizes society.
-- Able & willing to work 10-20 hrs/wk together in person on nights & primarily weekends.
-- Loves pair programming, BDD, design patterns, and writing clean, simple, and well-commented code.
+- **Purpose**: Passionate about developing an applications that revolutionize society.
+- **Autonomy**: Relishes working in small teams and having freedom & responsibility to build the best application possible.
+- **Mastery**: Loves learning, pair programming, BDD, design patterns, and writing clean, simple, and clearly-commented code.
 
 ## Logistics
 
