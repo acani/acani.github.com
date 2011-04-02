@@ -9,13 +9,17 @@ layout: default
 
 Gain valuable experience [pair programming](http://j.mp/cuq3vn) with other iOS engineers on a really *SWEET* project... all while having fun and getting paid.
 
+By the end of the summer, you'll be a much more experienced iOS engineer, prepared to build an app of your own or to take on an exciting position at acani or at any other company seeking iOS engineers. For example, because of my work on acani, I recently acquired a position as an iOS Engineer at [Venmo][1].
+
+You'll be able to claim to your friends, on your resume, and in interviews that you have at least one substantial app in the App Store.
+
 ## Team
 
 Two iOS engineers, of which you will be one, who will partner on building the app and pair most of the time.
 
 One team leader, me, who will guide the direction of the app and work & program together with the two iOS engineers.
 
-We'll plan out and reflect on the development of the app together on the weekends. I will also provide programming assistance to you then. You will then pair together on the weekdays to carry out our plan. I will always available via phone or email.
+We'll plan out and reflect on the development of the app together on the weekends. I will also provide programming assistance to you then. You will then pair together on the weekdays to carry out the plan. I will always available via phone or email.
 
 ## Commitment
 
@@ -73,17 +77,11 @@ I'm seeking two amazing, genius, diligent individuals who meet the following cri
 
 ## Logistics
 
-I'm available nights (6:30pm onward) & weekends (10am - 6pm), during which I can meet in Manhattan or near Westport, CIdeally, all three of us would work together 6 hours on Saturday & 6 hours on Sunday for a total of 12 hours. Then, during the summer internship, you could work the rest of your hours during the week with your partner.
+I'm available on the weekends (10am - 6pm), during which we'll meet in Manhattan or near Westport, CT. Ideally, all three of us would work together 6 hours on Saturday & 6 hours on Sunday for a total of 12 hours. Then, during the summer internship, you would work the rest of the hours during the week with your partner.
 
 ## Compensation
 
-The compensation will be competitive and will be based on experience, hard work, and results.
-
-## Beyond Compensation
-
-By the end of the summer, you'll be a much more experienced iOS engineer, prepared to build an app of your own or to take on an exciting position at acani or at any other company seeking iOS engineers, such as [Venmo][1].
-
-You'll be able to claim to your friends, on your resume, and in interviews that you have at least one substantial app in the App Store.
+The compensation will be a competitive hourly rate, based primarily on experience, skill, and attitude. Bonuses will be awarded for hard work and results.
 
 ## Contact
 
