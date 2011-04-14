@@ -17,7 +17,7 @@ Your YC username:
 mattdipasquale
 
 Company name:
-acani, Inc.
+Acani, Inc.
 
 Company url, if any:
 http://www.acani.com/
@@ -74,7 +74,7 @@ What's new about what you're making? What substitutes do people resort to becaus
 It empowers you to meet people nearby with similar interests. Facebook is great to keep in touch with friends but not for meeting people. Meetup is great for groups but not for one-to-one get togethers. Craigslist is great but old & sketchy now. Grindr is sweet but only for gays. The others (like Loopt Mix, Scout, MeetMoi) are too much like dating apps, and I don't want to be seen on those.
 
 Who are your competitors, and who might become competitors? Who do you fear most?
-Grindr (best), Loopt Mix, Scout, Facebook (followers). I don't really fear any of these "competitors." They'll all have to change their focus to be like acani, and when Facebook introduced Places, it only helped/validated foursquare. Loopt Mix has a similar slogan, but it sorts by m4w, w4m, etc., like a dating app.
+Grindr (best), Loopt Mix, Scout, Facebook (followers). I don't really fear any of these "competitors." They'll all have to change their focus to be like Acani, and when Facebook introduced Places, it only helped/validated foursquare. Loopt Mix has a similar slogan, but it sorts by m4w, w4m, etc., like a dating app.
 
 What do you understand about your business that other companies in it just don't get?
 It cannot look ANYTHING like a dating app. Facebook, Twitter, LinkedIn, etc. They are not dating apps, but tons of dating & flirting happens on Facebook.
@@ -99,7 +99,7 @@ And models and pretty girls can join too, of course.
 I can also advertise on my Lovers Facebook app, which gets thousands of hits/day.
 
 If you're already incorporated, when were you? Who are the shareholders and what percent does each own? If you've had funding, how much, at what valuation(s)?
-I incorporated acani, Inc. in Delaware, January 2011. There are no shareholders yet.
+I incorporated Acani, Inc. in Delaware, January 2011. There are no shareholders yet.
 
 If you're not incorporated yet, please list the percent of the company you plan to give each founder, and anyone else you plan to give stock to. (This question is as much for you as us.)
 mattdipasquale - 100%

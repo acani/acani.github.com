@@ -1,6 +1,6 @@
 acani:
 	- Remove the MIT-LICENSE file if you choose not to license your code.
-	- Find & Replace all occurrences of acani.
+	- Find & Replace all occurrences of acani (case-insensitive).
 	- Revise the following files:
 		- README.md
 		- index.html

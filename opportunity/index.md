@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# acani iOS Opportunity & Summer Internship
+# Acani iOS Opportunity & Summer Internship
 
 
 ## Opportunity
 
 Gain valuable experience [pair programming](http://j.mp/cuq3vn) with other iOS engineers on a really *SWEET* project... all while having fun and getting paid.
 
-By the end of the summer, you'll be a much more experienced iOS engineer, prepared to build an app of your own or to take on an exciting position at acani or at any other company seeking iOS engineers. For example, because of my work on acani, I recently acquired a position as an iOS Engineer at [Venmo][1].
+By the end of the summer, you'll be a much more experienced iOS engineer, prepared to build an app of your own or to take on an exciting position at Acani or at any other company seeking iOS engineers. For example, because of my work on Acani, I recently acquired a position as an iOS Engineer at [Venmo][1].
 
 You'll be able to claim to your friends, on your resume, and in interviews that you have at least one substantial app in the App Store.
 
@@ -25,9 +25,9 @@ We'll plan out and reflect on the development of the app together on the weekend
 
 Start immediately, part-time (10-20 hrs/wk) on nights & primarily weekends, and continue on to a full-time (40 hrs/wk) summer internship.
 
-## acani
+## Acani
 
-[acani](/) empowers you to meet people nearby with similar interests. It's like [Grindr](http://www.grindr.com) for everyone: skateboarders, programmers, models & photographers, etc. Watch an [acani demo video](/videos/acani-demo-2011-03-20.mov) of what we've developed so far.
+[Acani](/) empowers you to meet people nearby with similar interests. It's like [Grindr](http://www.grindr.com) for everyone: skateboarders, programmers, models & photographers, etc. Watch an [Acani demo video](/videos/acani-demo-2011-03-20.mov) of what we've developed so far.
 
 ## Team Leader
 
@@ -95,7 +95,7 @@ Please email me at <script>eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%
   
 * How could I get started learning iOS development?
 
-  The best way is to start with an idea for an iPhone app (How about acani?) and to build it! Hands on experience and learning as you go is golden!
+  The best way is to start with an idea for an iPhone app (How about Acani?) and to build it! Hands on experience and learning as you go is golden!
 
   Once you have an idea for an app that you'd like to make, [Download Xcode][2]. It's free if you register as an Apple Developer.
   
@@ -111,7 +111,7 @@ Thanks!
 
 Matt Di Pasquale  
 <http://www.mattdipasquale.com>  
-acani Team Leader
+Acani Team Leader
 
 [1]: https://venmo.com/info/jobs
 [2]: http://developer.apple.com/xcode/
