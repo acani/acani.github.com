@@ -8,15 +8,15 @@ layout: default
 
 \- Adapted from *The Facebook Effect* by David Kirkpatrick
 
-Now, Moskovitz is worth over 3 billion. That's the kind of person I'm looking to join the Acani team, someone filled with youthful passion & confidence to make Acani the world's best platform for meeting people nearby with similar interests.
+Moskovitz is the kind of person I'm looking to join the Acani team, someone filled with youthful passion & confidence to make Acani the world's best platform for meeting people nearby with similar interests. Now, Moskovitz is worth over 3 billion.
 
-**UPDATE**: On Spring Break? Want a one-week challenge (possibly to be continued)? Looking to earn your keep? Let's go! I'm free for the next two weeks (til May 2, 2011) and am looking for bright individuals local to Westport, CT to meet up for at least 30 hours this week (and/or next if possible), i.e., for about 6 hours per day from like 10am - 5pm with a couple short breaks and a 30-minute lunch break. We'll work on Acani at the Westport Library, or Barnes & Noble, or the like.
+**UPDATE**: On Spring Break? Want a one-week challenge (possibly to be continued)? Looking to earn your keep? Let's go! Now's your chance! I'm completely free for the next two weeks (til May 2, 2011) and am looking for bright individuals local to Westport, CT to meet up for at least 30 hours this week (and/or next if possible), i.e., for about 6 hours per day from like 10am - 5pm with a couple short breaks and a 30-minute lunch break. We'll work on Acani at the Westport Library, or Barnes & Noble, or the like.
 
 ## Opportunity
 
 Gain valuable experience [pair programming](http://j.mp/cuq3vn) with other iOS engineers on a really *SWEET* project... all while having fun and getting paid.
 
-By the end of the summer, you'll be a much more experienced iOS engineer, prepared to build an app of your own or to take on an exciting position at Acani or at any other company seeking iOS engineers. For example, because of my work on Acani, I recently acquired a position as an iOS Engineer at [Venmo][1].
+By the end of just one week, you'll have the knowledge & skills to build your own iOS apps. And if you continue on, then by the end of the summer, you'll be a much more experienced iOS engineer, prepared to take on an exciting position at Acani or at any other company seeking iOS engineers. For example, because of my work on Acani, I was recently offered a position as an iOS Engineer at [Venmo][1].
 
 You'll be able to claim to your friends, on your resume, and in interviews that you have at least one substantial app in the App Store.
 
