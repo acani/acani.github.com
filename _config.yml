@@ -1,3 +1,5 @@
-markdown: rdiscount
+auto: true
+server: true
+markdown: redcarpet
 permalink: /blog/:year/:month/:day/:title
 exclude: ["CNAME", "Rakefile", "README.md", "TODO.taskpaper"]
