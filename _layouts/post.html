@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<section id="post">
-  <h1>{{ page.title }}</h1>
-  <p>Posted: <time>{{ page.date | date_to_string }}</time></p>
-  {{ content }}
-</section>
+<h1>{{ page.title }}</h1>
+<p>Posted: <time>{{ page.date | date_to_string }}</time></p>
+{{ content }}
 
 <!-- <div id="disqus_thread"></div>
 <script>
