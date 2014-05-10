@@ -1,4 +1,4 @@
-# usage rake post['my new post'] or rake post (defaults to "new-post")
+# usage rake post[my-new-post] or rake post['my new post'] or rake post (defaults to "new-post")
 desc "Begin a new post in _posts dir"
 task :post, :title do |t, args|
   args.with_defaults(:title => 'new-post')

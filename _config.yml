@@ -1,5 +1,4 @@
-auto: true
-server: true
+exclude: ["CNAME", "Rakefile", "README.md", "TODO.taskpaper"]
 markdown: redcarpet
 permalink: /blog/:year/:month/:day/:title
-exclude: ["CNAME", "Rakefile", "README.md", "TODO.taskpaper"]
+url: http://www.acani.com
